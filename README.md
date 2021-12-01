@@ -2,9 +2,9 @@
 
 A simple Python app with the following I/O
 
-i: your name
+i: your name<br>
 i: your date of birth
 
-o: your name
-o: your age
+o: your name<br>
+o: your age<br>
 o: the days you have been alive since your birth
