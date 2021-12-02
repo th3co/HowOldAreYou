@@ -10,4 +10,4 @@ o: your age<br>
 o: the days you have been alive since your birth
 
 - maybe a gui
-- btw: hello github
+- hello github
